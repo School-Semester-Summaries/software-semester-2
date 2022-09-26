@@ -1,0 +1,16 @@
+C:\Users\kaan-\source\repos\AnimalInheritanceParty\AnimalInheritanceParty\bin\Debug\net5.0\AnimalInheritanceParty.exe
+C:\Users\kaan-\source\repos\AnimalInheritanceParty\AnimalInheritanceParty\bin\Debug\net5.0\AnimalInheritanceParty.deps.json
+C:\Users\kaan-\source\repos\AnimalInheritanceParty\AnimalInheritanceParty\bin\Debug\net5.0\AnimalInheritanceParty.runtimeconfig.json
+C:\Users\kaan-\source\repos\AnimalInheritanceParty\AnimalInheritanceParty\bin\Debug\net5.0\AnimalInheritanceParty.runtimeconfig.dev.json
+C:\Users\kaan-\source\repos\AnimalInheritanceParty\AnimalInheritanceParty\bin\Debug\net5.0\AnimalInheritanceParty.dll
+C:\Users\kaan-\source\repos\AnimalInheritanceParty\AnimalInheritanceParty\bin\Debug\net5.0\ref\AnimalInheritanceParty.dll
+C:\Users\kaan-\source\repos\AnimalInheritanceParty\AnimalInheritanceParty\bin\Debug\net5.0\AnimalInheritanceParty.pdb
+C:\Users\kaan-\source\repos\AnimalInheritanceParty\AnimalInheritanceParty\obj\Debug\net5.0\AnimalInheritanceParty.csproj.AssemblyReference.cache
+C:\Users\kaan-\source\repos\AnimalInheritanceParty\AnimalInheritanceParty\obj\Debug\net5.0\AnimalInheritanceParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaan-\source\repos\AnimalInheritanceParty\AnimalInheritanceParty\obj\Debug\net5.0\AnimalInheritanceParty.AssemblyInfoInputs.cache
+C:\Users\kaan-\source\repos\AnimalInheritanceParty\AnimalInheritanceParty\obj\Debug\net5.0\AnimalInheritanceParty.AssemblyInfo.cs
+C:\Users\kaan-\source\repos\AnimalInheritanceParty\AnimalInheritanceParty\obj\Debug\net5.0\AnimalInheritanceParty.csproj.CoreCompileInputs.cache
+C:\Users\kaan-\source\repos\AnimalInheritanceParty\AnimalInheritanceParty\obj\Debug\net5.0\AnimalInheritanceParty.dll
+C:\Users\kaan-\source\repos\AnimalInheritanceParty\AnimalInheritanceParty\obj\Debug\net5.0\ref\AnimalInheritanceParty.dll
+C:\Users\kaan-\source\repos\AnimalInheritanceParty\AnimalInheritanceParty\obj\Debug\net5.0\AnimalInheritanceParty.pdb
+C:\Users\kaan-\source\repos\AnimalInheritanceParty\AnimalInheritanceParty\obj\Debug\net5.0\AnimalInheritanceParty.genruntimeconfig.cache

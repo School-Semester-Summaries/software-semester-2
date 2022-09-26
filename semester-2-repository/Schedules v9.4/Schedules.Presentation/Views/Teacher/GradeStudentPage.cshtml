@@ -1,0 +1,26 @@
+﻿@model GradeViewModel
+<body>
+    <form asp-action="GradeStudent">
+        <label>Leerling</label>
+        <select asp-for="Student_ID" required oninvalid="this.setCustomValidity('Kies een leerling')">
+            <option value="" disabled selected>Leerling</option>
+            @for (int i = 0; i < Model.StudentList.Count; i++)
+            {
+                <option value="@Model.StudentList[i].Id">@Model.StudentList[i].Name</option>
+            }
+        </select>
+        <br />
+        <label>Klas</label>
+        <select asp-for="Test_ID" required oninvalid="this.setCustomValidity('Kies een toets')">
+            <option value="" disabled selected>Toets</option>
+            @for (int i = 0; i < Model.TestList.Count; i++)
+            {
+                <option value="@Model.TestList[i].Id">@Model.TestList[i].Name</option>
+            }
+        </select>
+        <br />
+        <label>Cijfer</label>
+        <input asp-for="Grade" type="number" required min="1" step=".1" max="10" oninvalid="this.setCustomValidity('Kies een cijfer')" />
+        <button type="submit">Voeg toe</button>
+    </form>
+</body>

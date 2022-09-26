@@ -1,0 +1,27 @@
+﻿body {
+}
+
+.studentInfo {
+    width: 500px;
+    border-collapse: collapse;
+}
+
+    .studentInfo td {
+        border: 1px solid black;
+    }
+
+    .studentInfo tr:nth-child(even) {
+        background-color: #E4FFB7;
+    }
+
+    .studentInfo tr:nth-child(odd) {
+        background-color: #EFFFD2;
+    }
+
+
+.header {
+    text-align: center;
+    font-weight: bolder;
+    background-color: #80B327;
+    color: white;
+}

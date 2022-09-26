@@ -1,0 +1,90 @@
+C:\Users\kaan-\source\repos\Schedules\Schedules.DAL\obj\Debug\net5.0\Schedules.DAL.csproj.AssemblyReference.cache
+C:\Users\kaan-\source\repos\Schedules\Schedules.DAL\obj\Debug\net5.0\Schedules.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaan-\source\repos\Schedules\Schedules.DAL\obj\Debug\net5.0\Schedules.DAL.AssemblyInfoInputs.cache
+C:\Users\kaan-\source\repos\Schedules\Schedules.DAL\obj\Debug\net5.0\Schedules.DAL.AssemblyInfo.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules.DAL\obj\Debug\net5.0\Schedules.DAL.csproj.CoreCompileInputs.cache
+C:\Users\kaan-\source\repos\Schedules\Schedules.DAL\bin\Debug\net5.0\Schedules.DAL.deps.json
+C:\Users\kaan-\source\repos\Schedules\Schedules.DAL\bin\Debug\net5.0\Schedules.DAL.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules.DAL\bin\Debug\net5.0\ref\Schedules.DAL.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules.DAL\bin\Debug\net5.0\Schedules.DAL.pdb
+C:\Users\kaan-\source\repos\Schedules\Schedules.DAL\bin\Debug\net5.0\Schedules.Logic.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules.DAL\bin\Debug\net5.0\Schedules.Logic.pdb
+C:\Users\kaan-\source\repos\Schedules\Schedules.DAL\obj\Debug\net5.0\Schedules.DAL.csproj.CopyComplete
+C:\Users\kaan-\source\repos\Schedules\Schedules.DAL\obj\Debug\net5.0\Schedules.DAL.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules.DAL\obj\Debug\net5.0\ref\Schedules.DAL.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules.DAL\obj\Debug\net5.0\Schedules.DAL.pdb
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.DAL\bin\Debug\net5.0\Schedules.DAL.deps.json
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.DAL\bin\Debug\net5.0\Schedules.DAL.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.DAL\bin\Debug\net5.0\ref\Schedules.DAL.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.DAL\bin\Debug\net5.0\Schedules.DAL.pdb
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.DAL\bin\Debug\net5.0\Schedules.Logic.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.DAL\bin\Debug\net5.0\Schedules.Logic.pdb
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.DAL\obj\Debug\net5.0\Schedules.DAL.csproj.AssemblyReference.cache
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.DAL\obj\Debug\net5.0\Schedules.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.DAL\obj\Debug\net5.0\Schedules.DAL.AssemblyInfoInputs.cache
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.DAL\obj\Debug\net5.0\Schedules.DAL.AssemblyInfo.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.DAL\obj\Debug\net5.0\Schedules.DAL.csproj.CoreCompileInputs.cache
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.DAL\obj\Debug\net5.0\Schedules.DAL.csproj.CopyComplete
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.DAL\obj\Debug\net5.0\Schedules.DAL.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.DAL\obj\Debug\net5.0\ref\Schedules.DAL.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.DAL\obj\Debug\net5.0\Schedules.DAL.pdb
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.DAL\bin\Debug\net5.0\Schedules.DAL.deps.json
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.DAL\bin\Debug\net5.0\Schedules.DAL.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.DAL\bin\Debug\net5.0\ref\Schedules.DAL.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.DAL\bin\Debug\net5.0\Schedules.DAL.pdb
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.DAL\bin\Debug\net5.0\Schedules.Logic.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.DAL\bin\Debug\net5.0\Schedules.Logic.pdb
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.DAL\obj\Debug\net5.0\Schedules.DAL.csproj.AssemblyReference.cache
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.DAL\obj\Debug\net5.0\Schedules.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.DAL\obj\Debug\net5.0\Schedules.DAL.AssemblyInfoInputs.cache
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.DAL\obj\Debug\net5.0\Schedules.DAL.AssemblyInfo.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.DAL\obj\Debug\net5.0\Schedules.DAL.csproj.CoreCompileInputs.cache
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.DAL\obj\Debug\net5.0\Schedules.DAL.csproj.CopyComplete
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.DAL\obj\Debug\net5.0\Schedules.DAL.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.DAL\obj\Debug\net5.0\ref\Schedules.DAL.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.DAL\obj\Debug\net5.0\Schedules.DAL.pdb
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.DAL\bin\Debug\net5.0\Schedules.DAL.deps.json
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.DAL\bin\Debug\net5.0\Schedules.DAL.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.DAL\bin\Debug\net5.0\ref\Schedules.DAL.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.DAL\bin\Debug\net5.0\Schedules.DAL.pdb
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.DAL\bin\Debug\net5.0\Schedules.Logic.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.DAL\bin\Debug\net5.0\Schedules.Logic.pdb
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.DAL\obj\Debug\net5.0\Schedules.DAL.csproj.AssemblyReference.cache
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.DAL\obj\Debug\net5.0\Schedules.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.DAL\obj\Debug\net5.0\Schedules.DAL.AssemblyInfoInputs.cache
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.DAL\obj\Debug\net5.0\Schedules.DAL.AssemblyInfo.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.DAL\obj\Debug\net5.0\Schedules.DAL.csproj.CoreCompileInputs.cache
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.DAL\obj\Debug\net5.0\Schedules.DAL.csproj.CopyComplete
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.DAL\obj\Debug\net5.0\Schedules.DAL.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.DAL\obj\Debug\net5.0\ref\Schedules.DAL.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.DAL\obj\Debug\net5.0\Schedules.DAL.pdb
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.DAL\bin\Debug\net5.0\Schedules.DAL.deps.json
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.DAL\bin\Debug\net5.0\Schedules.DAL.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.DAL\bin\Debug\net5.0\ref\Schedules.DAL.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.DAL\bin\Debug\net5.0\Schedules.DAL.pdb
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.DAL\bin\Debug\net5.0\Schedules.Logic.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.DAL\bin\Debug\net5.0\Schedules.Logic.pdb
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.DAL\obj\Debug\net5.0\Schedules.DAL.csproj.AssemblyReference.cache
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.DAL\obj\Debug\net5.0\Schedules.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.DAL\obj\Debug\net5.0\Schedules.DAL.AssemblyInfoInputs.cache
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.DAL\obj\Debug\net5.0\Schedules.DAL.AssemblyInfo.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.DAL\obj\Debug\net5.0\Schedules.DAL.csproj.CoreCompileInputs.cache
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.DAL\obj\Debug\net5.0\Schedules.DAL.csproj.CopyComplete
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.DAL\obj\Debug\net5.0\Schedules.DAL.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.DAL\obj\Debug\net5.0\ref\Schedules.DAL.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.DAL\obj\Debug\net5.0\Schedules.DAL.pdb
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.DAL\bin\Debug\net5.0\Schedules.DAL.deps.json
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.DAL\bin\Debug\net5.0\Schedules.DAL.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.DAL\bin\Debug\net5.0\ref\Schedules.DAL.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.DAL\bin\Debug\net5.0\Schedules.DAL.pdb
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.DAL\bin\Debug\net5.0\Schedules.Logic.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.DAL\bin\Debug\net5.0\Schedules.Logic.pdb
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.DAL\obj\Debug\net5.0\Schedules.DAL.csproj.AssemblyReference.cache
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.DAL\obj\Debug\net5.0\Schedules.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.DAL\obj\Debug\net5.0\Schedules.DAL.AssemblyInfoInputs.cache
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.DAL\obj\Debug\net5.0\Schedules.DAL.AssemblyInfo.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.DAL\obj\Debug\net5.0\Schedules.DAL.csproj.CoreCompileInputs.cache
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.DAL\obj\Debug\net5.0\Schedules.DAL.csproj.CopyComplete
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.DAL\obj\Debug\net5.0\Schedules.DAL.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.DAL\obj\Debug\net5.0\ref\Schedules.DAL.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.DAL\obj\Debug\net5.0\Schedules.DAL.pdb

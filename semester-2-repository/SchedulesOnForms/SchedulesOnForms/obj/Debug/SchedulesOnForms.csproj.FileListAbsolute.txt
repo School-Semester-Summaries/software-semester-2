@@ -1,0 +1,15 @@
+C:\Users\kaan-\source\repos\SchedulesOnForms\SchedulesOnForms\obj\Debug\SchedulesOnForms.csproj.AssemblyReference.cache
+C:\Users\kaan-\source\repos\SchedulesOnForms\SchedulesOnForms\obj\Debug\SchedulesOnForms.FRM_Login.resources
+C:\Users\kaan-\source\repos\SchedulesOnForms\SchedulesOnForms\obj\Debug\SchedulesOnForms.Properties.Resources.resources
+C:\Users\kaan-\source\repos\SchedulesOnForms\SchedulesOnForms\obj\Debug\SchedulesOnForms.csproj.GenerateResource.cache
+C:\Users\kaan-\source\repos\SchedulesOnForms\SchedulesOnForms\obj\Debug\SchedulesOnForms.csproj.CoreCompileInputs.cache
+C:\Users\kaan-\source\repos\SchedulesOnForms\SchedulesOnForms\bin\Debug\SchedulesOnForms.exe.config
+C:\Users\kaan-\source\repos\SchedulesOnForms\SchedulesOnForms\bin\Debug\SchedulesOnForms.exe
+C:\Users\kaan-\source\repos\SchedulesOnForms\SchedulesOnForms\bin\Debug\SchedulesOnForms.pdb
+C:\Users\kaan-\source\repos\SchedulesOnForms\SchedulesOnForms\obj\Debug\SchedulesOnForms.exe
+C:\Users\kaan-\source\repos\SchedulesOnForms\SchedulesOnForms\obj\Debug\SchedulesOnForms.pdb
+C:\Users\kaan-\source\repos\SchedulesOnForms\SchedulesOnForms\obj\Debug\SchedulesOnForms.DocentForms.FRM_Home.resources
+C:\Users\kaan-\source\repos\SchedulesOnForms\SchedulesOnForms\obj\Debug\SchedulesOnForms.LeerlingForms.FRM_Home.resources
+C:\Users\kaan-\source\repos\SchedulesOnForms\SchedulesOnForms\obj\Debug\SchedulesOnForms.DocentForms.FRM_CheckCijfers.resources
+C:\Users\kaan-\source\repos\SchedulesOnForms\SchedulesOnForms\obj\Debug\SchedulesOnForms.DocentForms.FRM_CreateToets.resources
+C:\Users\kaan-\source\repos\SchedulesOnForms\SchedulesOnForms\obj\Debug\SchedulesOnForms.DocentForms.FRM_CijfersInvoeren.resources

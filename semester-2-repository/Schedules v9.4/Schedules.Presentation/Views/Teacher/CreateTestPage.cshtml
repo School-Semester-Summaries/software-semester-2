@@ -1,0 +1,21 @@
+﻿@model TestViewModel
+<body>
+    <form asp-action="CreateTest">
+        <label>Schoolvak</label>
+        <select asp-for="Subject" required oninvalid="this.setCustomValidity('Voer hier het schoolvak in')">
+            <option value="" disabled selected>Toets</option>
+            @for (int i = 0; i < @Model.SubjectList.Count; i++)
+            {
+                <option value=" @Model.SubjectList[i]">@Model.SubjectList[i]</option>
+            }
+        </select>
+        <br />
+        <label>Toetsnaam</label>
+        <input asp-for="Name" type="text" placeholder="Keer en deelsommen 1" required oninvalid="this.setCustomValidity('Voer hier de toetsnaam in')" />
+        <br />
+        <label>Weging</label>
+        <input asp-for="Weight" type="number" min="0" max="100" placeholder="10" required oninvalid="this.setCustomValidity('Voer hier de weging in')" />
+        <br />
+        <button type="submit">Voeg toe</button>
+    </form>
+</body>

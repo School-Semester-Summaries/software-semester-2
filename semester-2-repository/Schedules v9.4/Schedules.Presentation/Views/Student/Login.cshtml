@@ -1,0 +1,14 @@
+﻿@model StudentViewModel
+<body>
+    <form asp-action="ProcessLogin">
+        <label>Inloggen als</label>
+        <select asp-for="StudentId" required oninvalid="this.setCustomValidity('Kies een account om mee in te loggen')">
+            <option value="" disabled selected>Leerling</option>
+            @for (int i = 0; i < Model.StudentList.Count; i++)
+            {
+                <option value="@Model.StudentList[i].Id">@Model.StudentList[i].Name</option>
+            }
+        </select>
+        <button type="submit">Login</button>
+    </form>
+</body>

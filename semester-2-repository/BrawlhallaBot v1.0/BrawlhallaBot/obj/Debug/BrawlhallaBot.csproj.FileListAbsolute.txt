@@ -1,0 +1,20 @@
+C:\Users\kaan-\source\repos\BrawlhallaBot\BrawlhallaBot\bin\Debug\BrawlhallaBot.exe.config
+C:\Users\kaan-\source\repos\BrawlhallaBot\BrawlhallaBot\bin\Debug\BrawlhallaBot.exe
+C:\Users\kaan-\source\repos\BrawlhallaBot\BrawlhallaBot\bin\Debug\BrawlhallaBot.pdb
+C:\Users\kaan-\source\repos\BrawlhallaBot\BrawlhallaBot\obj\Debug\BrawlhallaBot.csproj.AssemblyReference.cache
+C:\Users\kaan-\source\repos\BrawlhallaBot\BrawlhallaBot\obj\Debug\BrawlhallaBot.Form1.resources
+C:\Users\kaan-\source\repos\BrawlhallaBot\BrawlhallaBot\obj\Debug\BrawlhallaBot.Properties.Resources.resources
+C:\Users\kaan-\source\repos\BrawlhallaBot\BrawlhallaBot\obj\Debug\BrawlhallaBot.csproj.GenerateResource.cache
+C:\Users\kaan-\source\repos\BrawlhallaBot\BrawlhallaBot\obj\Debug\BrawlhallaBot.csproj.CoreCompileInputs.cache
+C:\Users\kaan-\source\repos\BrawlhallaBot\BrawlhallaBot\obj\Debug\BrawlhallaBot.exe
+C:\Users\kaan-\source\repos\BrawlhallaBot\BrawlhallaBot\obj\Debug\BrawlhallaBot.pdb
+C:\Users\kaan-\source\repos\BrawlhallaBot v1.0\BrawlhallaBot\bin\Debug\BrawlhallaBot.exe.config
+C:\Users\kaan-\source\repos\BrawlhallaBot v1.0\BrawlhallaBot\bin\Debug\BrawlhallaBot.exe
+C:\Users\kaan-\source\repos\BrawlhallaBot v1.0\BrawlhallaBot\bin\Debug\BrawlhallaBot.pdb
+C:\Users\kaan-\source\repos\BrawlhallaBot v1.0\BrawlhallaBot\obj\Debug\BrawlhallaBot.csproj.AssemblyReference.cache
+C:\Users\kaan-\source\repos\BrawlhallaBot v1.0\BrawlhallaBot\obj\Debug\BrawlhallaBot.Form1.resources
+C:\Users\kaan-\source\repos\BrawlhallaBot v1.0\BrawlhallaBot\obj\Debug\BrawlhallaBot.Properties.Resources.resources
+C:\Users\kaan-\source\repos\BrawlhallaBot v1.0\BrawlhallaBot\obj\Debug\BrawlhallaBot.csproj.GenerateResource.cache
+C:\Users\kaan-\source\repos\BrawlhallaBot v1.0\BrawlhallaBot\obj\Debug\BrawlhallaBot.csproj.CoreCompileInputs.cache
+C:\Users\kaan-\source\repos\BrawlhallaBot v1.0\BrawlhallaBot\obj\Debug\BrawlhallaBot.exe
+C:\Users\kaan-\source\repos\BrawlhallaBot v1.0\BrawlhallaBot\obj\Debug\BrawlhallaBot.pdb

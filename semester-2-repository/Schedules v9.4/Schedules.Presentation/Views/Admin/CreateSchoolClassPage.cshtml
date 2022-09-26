@@ -1,0 +1,25 @@
+﻿@model SchoolClassViewModel
+<body>
+    <form asp-action="CreateSchoolClass">
+        <label>Klas jaar</label>
+        <input asp-for="Year" type="number" required min="1" max="8" placeholder="1" />
+        <br />
+        <label>Toevoeging</label>
+        <input asp-for="Suffix" type="text" required min="1" max="1" placeholder="a" />
+        <button type="submit" class="btn btn-primary">Creëer</button>
+        <br />
+        <br />
+        <br />
+        <table>
+            <tr>
+                <th>Bestaande Klassen</th>
+            </tr>
+            @foreach (var SchoolClass in Model.SchoolClassList)
+            {
+                <tr>
+                    <td>@SchoolClass.Name</td>
+                </tr>
+            }
+        </table>
+    </form>
+</body>

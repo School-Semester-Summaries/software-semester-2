@@ -1,0 +1,12 @@
+C:\Users\kaan-\source\repos\DependencyInjection\PotionShop.Logic\bin\Debug\net5.0\PotionShop.Logic.deps.json
+C:\Users\kaan-\source\repos\DependencyInjection\PotionShop.Logic\bin\Debug\net5.0\PotionShop.Logic.dll
+C:\Users\kaan-\source\repos\DependencyInjection\PotionShop.Logic\bin\Debug\net5.0\ref\PotionShop.Logic.dll
+C:\Users\kaan-\source\repos\DependencyInjection\PotionShop.Logic\bin\Debug\net5.0\PotionShop.Logic.pdb
+C:\Users\kaan-\source\repos\DependencyInjection\PotionShop.Logic\obj\Debug\net5.0\PotionShop.Logic.csproj.AssemblyReference.cache
+C:\Users\kaan-\source\repos\DependencyInjection\PotionShop.Logic\obj\Debug\net5.0\PotionShop.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaan-\source\repos\DependencyInjection\PotionShop.Logic\obj\Debug\net5.0\PotionShop.Logic.AssemblyInfoInputs.cache
+C:\Users\kaan-\source\repos\DependencyInjection\PotionShop.Logic\obj\Debug\net5.0\PotionShop.Logic.AssemblyInfo.cs
+C:\Users\kaan-\source\repos\DependencyInjection\PotionShop.Logic\obj\Debug\net5.0\PotionShop.Logic.csproj.CoreCompileInputs.cache
+C:\Users\kaan-\source\repos\DependencyInjection\PotionShop.Logic\obj\Debug\net5.0\PotionShop.Logic.dll
+C:\Users\kaan-\source\repos\DependencyInjection\PotionShop.Logic\obj\Debug\net5.0\ref\PotionShop.Logic.dll
+C:\Users\kaan-\source\repos\DependencyInjection\PotionShop.Logic\obj\Debug\net5.0\PotionShop.Logic.pdb

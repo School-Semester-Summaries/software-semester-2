@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAuthMVCWouterEnzo", "TestAuthMVCWouterEnzo\TestAuthMVCWouterEnzo.csproj", "{9FE6E08D-479E-4EDE-8936-788B3454AC02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FE6E08D-479E-4EDE-8936-788B3454AC02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FE6E08D-479E-4EDE-8936-788B3454AC02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FE6E08D-479E-4EDE-8936-788B3454AC02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FE6E08D-479E-4EDE-8936-788B3454AC02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {690C4424-DF2D-40C4-AD2B-CBDEB99A5239}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,37 @@
+﻿@model Animal;
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<link href="~/css/StyleSheet.css" rel="stylesheet" />
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <p>@Model.Name</p>
+
+    @*<p>@Model.ChangeName("Rick")</p>*@
+
+    <form asp-action="Privacy">
+        <input asp-for="@Model.Name" type="text" />
+        <button class="btn btn-primary" type="submit">Save</button>
+    </form>
+
+    <form asp-action="Privacy">
+        <select asp-for="@Model.Name">
+            <option value="">Select a number</option>
+            <option value="Richard">Richard</option>
+            <option value="Lex">Lex</option>
+            <option value="Brock">Brock</option>
+        </select>
+        <button class="btn btn-primary" type="submit">Save</button>
+    </form>
+
+    @{
+        Html.RenderPartial("IndexPartialView");
+    }
+
+    <a asp-controller="Home" asp-action="Privacy" asp-route-name="@Model.Name">GO REX! (Model.Name)</a>
+</div>
+
+

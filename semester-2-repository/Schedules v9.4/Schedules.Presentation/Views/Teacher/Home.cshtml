@@ -1,0 +1,10 @@
+﻿@model TeacherViewModel
+<body>
+    <h1>Welkom @Model.FirstName</h1>
+    <h4>Wat wil je doen?</h4>
+    <br />
+    <a asp-action="CreateTestPage" class="btn btn-primary">Toets aanmaken</a>
+    <br />
+    <br />
+    <a asp-action="GradeStudentPage" class="btn btn-primary">Student cijfer geven</a>
+</body>

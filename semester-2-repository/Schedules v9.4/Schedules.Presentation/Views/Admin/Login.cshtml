@@ -1,0 +1,14 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<body>
+    <h1>Login als:</h1>
+    <br />
+    <a asp-action="Home" class="btn btn-primary">Beheerder</a>
+    <br />
+    <br />
+    <a asp-controller="Teacher" asp-action="Login" class="btn btn-primary">Docent</a>
+    <br />
+    <br />
+    <a asp-controller="Student" asp-action="Login" class="btn btn-primary">Leerling</a>
+</body>

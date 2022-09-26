@@ -1,0 +1,360 @@
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\bin\Debug\net5.0\appsettings.json
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\bin\Debug\net5.0\Schedules.Presentation.exe
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\bin\Debug\net5.0\Schedules.Presentation.deps.json
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\bin\Debug\net5.0\Schedules.Presentation.runtimeconfig.json
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\bin\Debug\net5.0\Schedules.Presentation.runtimeconfig.dev.json
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\bin\Debug\net5.0\Schedules.Presentation.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\bin\Debug\net5.0\ref\Schedules.Presentation.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\bin\Debug\net5.0\Schedules.Presentation.pdb
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\bin\Debug\net5.0\Schedules.Presentation.Views.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\bin\Debug\net5.0\Schedules.Presentation.Views.pdb
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.AssemblyInfoInputs.cache
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.AssemblyInfo.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.RazorAssemblyInfo.cache
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.RazorAssemblyInfo.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\obj\Debug\net5.0\staticwebassets\Schedules.Presentation.StaticWebAssets.Manifest.cache
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\obj\Debug\net5.0\staticwebassets\Schedules.Presentation.StaticWebAssets.xml
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\obj\Debug\net5.0\scopedcss\bundle\Schedules.Presentation.styles.css
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.TagHelpers.input.cache
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.TagHelpers.output.cache
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.RazorCoreGenerate.cache
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.RazorTargetAssemblyInfo.cache
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.RazorTargetAssemblyInfo.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.Views.pdb
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\obj\Debug\net5.0\ref\Schedules.Presentation.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.pdb
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.genruntimeconfig.cache
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.csproj.CopyComplete
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.csproj.AssemblyReference.cache
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\bin\Debug\net5.0\Schedules.DAL.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\bin\Debug\net5.0\Schedules.Logic.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\bin\Debug\net5.0\Schedules.DAL.pdb
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\bin\Debug\net5.0\Schedules.Logic.pdb
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Admin\Home.cshtml.g.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Admin\Login.cshtml.g.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Admin\CreateStudentPage.cshtml.g.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Admin\CreateTeacherPage.cshtml.g.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Admin\CreateSchoolClassPage.cshtml.g.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Teacher\Login.cshtml.g.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Teacher\Home.cshtml.g.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Teacher\CreateTestPage.cshtml.g.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Teacher\GradeStudentPage.cshtml.g.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Student\Login.cshtml.g.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Student\Home.cshtml.g.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Student\CheckMyGradesPage.cshtml.g.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\bin\Debug\net5.0\appsettings.json
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\bin\Debug\net5.0\Schedules.Presentation.exe
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\bin\Debug\net5.0\Schedules.Presentation.deps.json
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\bin\Debug\net5.0\Schedules.Presentation.runtimeconfig.json
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\bin\Debug\net5.0\Schedules.Presentation.runtimeconfig.dev.json
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\bin\Debug\net5.0\Schedules.Presentation.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\bin\Debug\net5.0\ref\Schedules.Presentation.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\bin\Debug\net5.0\Schedules.Presentation.pdb
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\bin\Debug\net5.0\Schedules.Presentation.Views.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\bin\Debug\net5.0\Schedules.Presentation.Views.pdb
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\bin\Debug\net5.0\Schedules.DAL.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\bin\Debug\net5.0\Schedules.Logic.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\bin\Debug\net5.0\Schedules.DAL.pdb
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\bin\Debug\net5.0\Schedules.Logic.pdb
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.csproj.AssemblyReference.cache
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.AssemblyInfoInputs.cache
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.AssemblyInfo.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.RazorAssemblyInfo.cache
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.RazorAssemblyInfo.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\obj\Debug\net5.0\staticwebassets\Schedules.Presentation.StaticWebAssets.Manifest.cache
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\obj\Debug\net5.0\staticwebassets\Schedules.Presentation.StaticWebAssets.xml
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\obj\Debug\net5.0\scopedcss\bundle\Schedules.Presentation.styles.css
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.TagHelpers.input.cache
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.TagHelpers.output.cache
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.RazorCoreGenerate.cache
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Admin\CreateSchoolClassPage.cshtml.g.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Admin\CreateStudentPage.cshtml.g.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Admin\CreateTeacherPage.cshtml.g.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Admin\Home.cshtml.g.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Admin\Login.cshtml.g.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Student\CheckMyGradesPage.cshtml.g.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Student\Home.cshtml.g.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Student\Login.cshtml.g.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Teacher\CreateTestPage.cshtml.g.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Teacher\GradeStudentPage.cshtml.g.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Teacher\Home.cshtml.g.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Teacher\Login.cshtml.g.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.RazorTargetAssemblyInfo.cache
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.RazorTargetAssemblyInfo.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.Views.pdb
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.csproj.CopyComplete
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\obj\Debug\net5.0\ref\Schedules.Presentation.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.pdb
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.genruntimeconfig.cache
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\bin\Debug\net5.0\appsettings.json
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\bin\Debug\net5.0\Schedules.Presentation.exe
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\bin\Debug\net5.0\Schedules.Presentation.deps.json
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\bin\Debug\net5.0\Schedules.Presentation.runtimeconfig.json
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\bin\Debug\net5.0\Schedules.Presentation.runtimeconfig.dev.json
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\bin\Debug\net5.0\Schedules.Presentation.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\bin\Debug\net5.0\ref\Schedules.Presentation.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\bin\Debug\net5.0\Schedules.Presentation.pdb
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\bin\Debug\net5.0\Schedules.Presentation.Views.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\bin\Debug\net5.0\Schedules.Presentation.Views.pdb
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\bin\Debug\net5.0\Schedules.DAL.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\bin\Debug\net5.0\Schedules.Logic.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\bin\Debug\net5.0\Schedules.DAL.pdb
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\bin\Debug\net5.0\Schedules.Logic.pdb
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.csproj.AssemblyReference.cache
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.AssemblyInfoInputs.cache
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.AssemblyInfo.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.RazorAssemblyInfo.cache
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.RazorAssemblyInfo.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\staticwebassets\Schedules.Presentation.StaticWebAssets.Manifest.cache
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\staticwebassets\Schedules.Presentation.StaticWebAssets.xml
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\scopedcss\bundle\Schedules.Presentation.styles.css
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.TagHelpers.input.cache
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.TagHelpers.output.cache
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.RazorCoreGenerate.cache
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Admin\CreateSchoolClassPage.cshtml.g.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Admin\CreateStudentPage.cshtml.g.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Admin\CreateTeacherPage.cshtml.g.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Admin\Home.cshtml.g.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Admin\Login.cshtml.g.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Student\CheckMyGradesPage.cshtml.g.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Student\Home.cshtml.g.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Student\Login.cshtml.g.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Teacher\CreateTestPage.cshtml.g.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Teacher\GradeStudentPage.cshtml.g.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Teacher\Home.cshtml.g.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Teacher\Login.cshtml.g.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.RazorTargetAssemblyInfo.cache
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.RazorTargetAssemblyInfo.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.Views.pdb
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.csproj.CopyComplete
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\ref\Schedules.Presentation.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.pdb
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.genruntimeconfig.cache
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\bin\Debug\net5.0\appsettings.json
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\bin\Debug\net5.0\Schedules.Presentation.exe
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\bin\Debug\net5.0\Schedules.Presentation.deps.json
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\bin\Debug\net5.0\Schedules.Presentation.runtimeconfig.json
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\bin\Debug\net5.0\Schedules.Presentation.runtimeconfig.dev.json
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\bin\Debug\net5.0\Schedules.Presentation.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\bin\Debug\net5.0\ref\Schedules.Presentation.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\bin\Debug\net5.0\Schedules.Presentation.pdb
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\bin\Debug\net5.0\Schedules.Presentation.Views.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\bin\Debug\net5.0\Schedules.Presentation.Views.pdb
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\bin\Debug\net5.0\Schedules.DAL.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\bin\Debug\net5.0\Schedules.Logic.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\bin\Debug\net5.0\Schedules.DAL.pdb
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\bin\Debug\net5.0\Schedules.Logic.pdb
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.csproj.AssemblyReference.cache
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.AssemblyInfoInputs.cache
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.AssemblyInfo.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.RazorAssemblyInfo.cache
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.RazorAssemblyInfo.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\staticwebassets\Schedules.Presentation.StaticWebAssets.Manifest.cache
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\staticwebassets\Schedules.Presentation.StaticWebAssets.xml
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\scopedcss\bundle\Schedules.Presentation.styles.css
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.TagHelpers.input.cache
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.TagHelpers.output.cache
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.RazorCoreGenerate.cache
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Admin\CreateSchoolClassPage.cshtml.g.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Admin\CreateStudentPage.cshtml.g.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Admin\CreateTeacherPage.cshtml.g.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Admin\Home.cshtml.g.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Admin\Login.cshtml.g.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Student\CheckMyGradesPage.cshtml.g.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Student\Home.cshtml.g.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Student\Login.cshtml.g.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Teacher\CreateTestPage.cshtml.g.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Teacher\GradeStudentPage.cshtml.g.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Teacher\Home.cshtml.g.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Teacher\Login.cshtml.g.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.RazorTargetAssemblyInfo.cache
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.RazorTargetAssemblyInfo.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.Views.pdb
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.csproj.CopyComplete
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\ref\Schedules.Presentation.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.pdb
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.genruntimeconfig.cache
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\bin\Debug\net5.0\appsettings.json
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\bin\Debug\net5.0\Schedules.Presentation.exe
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\bin\Debug\net5.0\Schedules.Presentation.deps.json
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\bin\Debug\net5.0\Schedules.Presentation.runtimeconfig.json
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\bin\Debug\net5.0\Schedules.Presentation.runtimeconfig.dev.json
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\bin\Debug\net5.0\Schedules.Presentation.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\bin\Debug\net5.0\ref\Schedules.Presentation.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\bin\Debug\net5.0\Schedules.Presentation.pdb
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\bin\Debug\net5.0\Schedules.Presentation.Views.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\bin\Debug\net5.0\Schedules.Presentation.Views.pdb
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\bin\Debug\net5.0\Schedules.DAL.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\bin\Debug\net5.0\Schedules.Logic.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\bin\Debug\net5.0\Schedules.DAL.pdb
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\bin\Debug\net5.0\Schedules.Logic.pdb
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.csproj.AssemblyReference.cache
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.AssemblyInfoInputs.cache
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.AssemblyInfo.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.RazorAssemblyInfo.cache
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.RazorAssemblyInfo.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\obj\Debug\net5.0\staticwebassets\Schedules.Presentation.StaticWebAssets.Manifest.cache
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\obj\Debug\net5.0\staticwebassets\Schedules.Presentation.StaticWebAssets.xml
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\obj\Debug\net5.0\scopedcss\bundle\Schedules.Presentation.styles.css
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.TagHelpers.input.cache
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.TagHelpers.output.cache
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.RazorCoreGenerate.cache
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Admin\CreateSchoolClassPage.cshtml.g.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Admin\CreateStudentPage.cshtml.g.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Admin\CreateTeacherPage.cshtml.g.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Admin\Home.cshtml.g.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Admin\Login.cshtml.g.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Student\CheckMyGradesPage.cshtml.g.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Student\Home.cshtml.g.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Student\Login.cshtml.g.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Teacher\CreateTestPage.cshtml.g.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Teacher\GradeStudentPage.cshtml.g.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Teacher\Home.cshtml.g.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Teacher\Login.cshtml.g.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.RazorTargetAssemblyInfo.cache
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.RazorTargetAssemblyInfo.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.Views.pdb
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.csproj.CopyComplete
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\obj\Debug\net5.0\ref\Schedules.Presentation.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.pdb
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.genruntimeconfig.cache
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\bin\Debug\net5.0\appsettings.json
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\bin\Debug\net5.0\Schedules.Presentation.exe
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\bin\Debug\net5.0\Schedules.Presentation.deps.json
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\bin\Debug\net5.0\Schedules.Presentation.runtimeconfig.json
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\bin\Debug\net5.0\Schedules.Presentation.runtimeconfig.dev.json
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\bin\Debug\net5.0\Schedules.Presentation.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\bin\Debug\net5.0\ref\Schedules.Presentation.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\bin\Debug\net5.0\Schedules.Presentation.pdb
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\bin\Debug\net5.0\Schedules.Presentation.Views.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\bin\Debug\net5.0\Schedules.Presentation.Views.pdb
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\bin\Debug\net5.0\Schedules.DAL.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\bin\Debug\net5.0\Schedules.Logic.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\bin\Debug\net5.0\Schedules.DAL.pdb
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\bin\Debug\net5.0\Schedules.Logic.pdb
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.csproj.AssemblyReference.cache
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.AssemblyInfoInputs.cache
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.AssemblyInfo.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.RazorAssemblyInfo.cache
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.RazorAssemblyInfo.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\obj\Debug\net5.0\staticwebassets\Schedules.Presentation.StaticWebAssets.Manifest.cache
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\obj\Debug\net5.0\staticwebassets\Schedules.Presentation.StaticWebAssets.xml
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\obj\Debug\net5.0\scopedcss\bundle\Schedules.Presentation.styles.css
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.TagHelpers.input.cache
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.TagHelpers.output.cache
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.RazorCoreGenerate.cache
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Admin\CreateSchoolClassPage.cshtml.g.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Admin\CreateStudentPage.cshtml.g.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Admin\CreateTeacherPage.cshtml.g.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Admin\Home.cshtml.g.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Admin\Login.cshtml.g.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Student\CheckMyGradesPage.cshtml.g.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Student\Home.cshtml.g.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Student\Login.cshtml.g.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Teacher\CreateTestPage.cshtml.g.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Teacher\GradeStudentPage.cshtml.g.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Teacher\Home.cshtml.g.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\Teacher\Login.cshtml.g.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.RazorTargetAssemblyInfo.cache
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.RazorTargetAssemblyInfo.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.Views.pdb
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.csproj.CopyComplete
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\obj\Debug\net5.0\ref\Schedules.Presentation.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.pdb
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Presentation\obj\Debug\net5.0\Schedules.Presentation.genruntimeconfig.cache

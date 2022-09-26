@@ -1,0 +1,46 @@
+﻿@model TeacherViewModel
+<body>
+    <form asp-action="CreateTeacher">
+        <label>Voornaam</label>
+        <input asp-for="FirstName" type="text" placeholder="John" required oninvalid="this.setCustomValidity('Voer hier je naam in')" />
+        <br />
+        <label>Achternaam</label>
+        <input asp-for="LastName" type="text" placeholder="Doe" required oninvalid="this.setCustomValidity('Voer hier je achternaam in')" />
+        <br />
+        <label>Telefoonnummer</label>
+        <input asp-for="Phone" type="number" value="" placeholder="0612345678" max="0999999999" min="0600000000" required oninvalid="this.setCustomValidity('Voer een geldig telefoonnummer in')" />
+        <br />
+        <label>Geboortedatum</label>
+        <select asp-for="Day" required oninvalid="this.setCustomValidity('Kies je geboortedag')">
+            <option value="" disabled selected>Dag</option>
+            @for (int i = 1; i < 32; i++)
+            {
+                <option value="@i">@i</option>
+            }
+        </select>
+        <select asp-for="Month" required oninvalid="this.setCustomValidity('Kies je gebeoortemaand')">
+            <option value="" disabled selected>Maand</option>
+            @for (int i = 1; i < 13; i++)
+            {
+                <option value="@i">@i</option>
+            }
+        </select>
+        <select asp-for="Year" required oninvalid="this.setCustomValidity('Kies je geboortejaar')">
+            <option value="" disabled selected>Jaar</option>
+            @for (int i = 2005; i > 1900; i--)
+            {
+                <option value="@i">@i</option>
+            }
+        </select>
+        <br />
+        <p>(Laat hier alleen beschikbare klassen zien, zou beter zijn)</p>
+        <select asp-for="SchoolClassId" required oninvalid="setCustomValidity('Kies een klas')">
+            <option value="" disabled selected>Klas</option>
+            @foreach (var schoolClass in Model.SchoolClassList)
+            {
+                <option value="@schoolClass.ID">@schoolClass.Name</option>
+            }
+        </select>
+        <button type="submit">Voeg toe</button>
+    </form>
+</body>

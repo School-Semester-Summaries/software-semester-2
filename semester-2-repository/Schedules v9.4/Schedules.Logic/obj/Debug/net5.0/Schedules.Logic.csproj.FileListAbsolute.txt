@@ -1,0 +1,72 @@
+C:\Users\kaan-\source\repos\Schedules\Schedules.Logic\obj\Debug\net5.0\Schedules.Logic.csproj.AssemblyReference.cache
+C:\Users\kaan-\source\repos\Schedules\Schedules.Logic\obj\Debug\net5.0\Schedules.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaan-\source\repos\Schedules\Schedules.Logic\obj\Debug\net5.0\Schedules.Logic.AssemblyInfoInputs.cache
+C:\Users\kaan-\source\repos\Schedules\Schedules.Logic\obj\Debug\net5.0\Schedules.Logic.AssemblyInfo.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules.Logic\obj\Debug\net5.0\Schedules.Logic.csproj.CoreCompileInputs.cache
+C:\Users\kaan-\source\repos\Schedules\Schedules.Logic\bin\Debug\net5.0\Schedules.Logic.deps.json
+C:\Users\kaan-\source\repos\Schedules\Schedules.Logic\bin\Debug\net5.0\Schedules.Logic.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules.Logic\bin\Debug\net5.0\ref\Schedules.Logic.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules.Logic\bin\Debug\net5.0\Schedules.Logic.pdb
+C:\Users\kaan-\source\repos\Schedules\Schedules.Logic\obj\Debug\net5.0\Schedules.Logic.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules.Logic\obj\Debug\net5.0\ref\Schedules.Logic.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules.Logic\obj\Debug\net5.0\Schedules.Logic.pdb
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Logic\bin\Debug\net5.0\Schedules.Logic.deps.json
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Logic\bin\Debug\net5.0\Schedules.Logic.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Logic\bin\Debug\net5.0\ref\Schedules.Logic.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Logic\bin\Debug\net5.0\Schedules.Logic.pdb
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Logic\obj\Debug\net5.0\Schedules.Logic.csproj.AssemblyReference.cache
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Logic\obj\Debug\net5.0\Schedules.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Logic\obj\Debug\net5.0\Schedules.Logic.AssemblyInfoInputs.cache
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Logic\obj\Debug\net5.0\Schedules.Logic.AssemblyInfo.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Logic\obj\Debug\net5.0\Schedules.Logic.csproj.CoreCompileInputs.cache
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Logic\obj\Debug\net5.0\Schedules.Logic.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Logic\obj\Debug\net5.0\ref\Schedules.Logic.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v8.0\Schedules.Logic\obj\Debug\net5.0\Schedules.Logic.pdb
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Logic\bin\Debug\net5.0\Schedules.Logic.deps.json
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Logic\bin\Debug\net5.0\Schedules.Logic.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Logic\bin\Debug\net5.0\ref\Schedules.Logic.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Logic\bin\Debug\net5.0\Schedules.Logic.pdb
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Logic\obj\Debug\net5.0\Schedules.Logic.csproj.AssemblyReference.cache
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Logic\obj\Debug\net5.0\Schedules.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Logic\obj\Debug\net5.0\Schedules.Logic.AssemblyInfoInputs.cache
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Logic\obj\Debug\net5.0\Schedules.Logic.AssemblyInfo.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Logic\obj\Debug\net5.0\Schedules.Logic.csproj.CoreCompileInputs.cache
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Logic\obj\Debug\net5.0\Schedules.Logic.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Logic\obj\Debug\net5.0\ref\Schedules.Logic.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.1\Schedules.Logic\obj\Debug\net5.0\Schedules.Logic.pdb
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Logic\bin\Debug\net5.0\Schedules.Logic.deps.json
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Logic\bin\Debug\net5.0\Schedules.Logic.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Logic\bin\Debug\net5.0\ref\Schedules.Logic.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Logic\bin\Debug\net5.0\Schedules.Logic.pdb
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Logic\obj\Debug\net5.0\Schedules.Logic.csproj.AssemblyReference.cache
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Logic\obj\Debug\net5.0\Schedules.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Logic\obj\Debug\net5.0\Schedules.Logic.AssemblyInfoInputs.cache
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Logic\obj\Debug\net5.0\Schedules.Logic.AssemblyInfo.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Logic\obj\Debug\net5.0\Schedules.Logic.csproj.CoreCompileInputs.cache
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Logic\obj\Debug\net5.0\Schedules.Logic.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Logic\obj\Debug\net5.0\ref\Schedules.Logic.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.1\Schedules.Logic\obj\Debug\net5.0\Schedules.Logic.pdb
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Logic\bin\Debug\net5.0\Schedules.Logic.deps.json
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Logic\bin\Debug\net5.0\Schedules.Logic.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Logic\bin\Debug\net5.0\ref\Schedules.Logic.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Logic\bin\Debug\net5.0\Schedules.Logic.pdb
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Logic\obj\Debug\net5.0\Schedules.Logic.csproj.AssemblyReference.cache
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Logic\obj\Debug\net5.0\Schedules.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Logic\obj\Debug\net5.0\Schedules.Logic.AssemblyInfoInputs.cache
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Logic\obj\Debug\net5.0\Schedules.Logic.AssemblyInfo.cs
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Logic\obj\Debug\net5.0\Schedules.Logic.csproj.CoreCompileInputs.cache
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Logic\obj\Debug\net5.0\Schedules.Logic.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Logic\obj\Debug\net5.0\ref\Schedules.Logic.dll
+C:\Users\kaan-\source\repos\Schedules\Schedules v9.2\Schedules.Logic\obj\Debug\net5.0\Schedules.Logic.pdb
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Logic\bin\Debug\net5.0\Schedules.Logic.deps.json
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Logic\bin\Debug\net5.0\Schedules.Logic.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Logic\bin\Debug\net5.0\ref\Schedules.Logic.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Logic\bin\Debug\net5.0\Schedules.Logic.pdb
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Logic\obj\Debug\net5.0\Schedules.Logic.csproj.AssemblyReference.cache
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Logic\obj\Debug\net5.0\Schedules.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Logic\obj\Debug\net5.0\Schedules.Logic.AssemblyInfoInputs.cache
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Logic\obj\Debug\net5.0\Schedules.Logic.AssemblyInfo.cs
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Logic\obj\Debug\net5.0\Schedules.Logic.csproj.CoreCompileInputs.cache
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Logic\obj\Debug\net5.0\Schedules.Logic.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Logic\obj\Debug\net5.0\ref\Schedules.Logic.dll
+C:\Users\kaan-\source\Git\Schedules\Schedules v9.4\Schedules.Logic\obj\Debug\net5.0\Schedules.Logic.pdb

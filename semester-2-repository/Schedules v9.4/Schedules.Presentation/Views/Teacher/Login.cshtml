@@ -1,0 +1,15 @@
+﻿@model TeacherViewModel
+<body>
+    <form asp-action="ProcessLogin">
+        <label>Inloggen als</label>
+
+        <select asp-for="@Model.TeacherId" required oninvalid="this.setCustomValidity('Kies een account om mee in te loggen')">
+            <option value="" disabled selected>Docent</option>
+            @foreach (var teacher in Model.TeacherList)
+            {
+                <option value="@teacher.Id">@teacher.Name</option>
+            }
+        </select>
+        <button type="submit">Login</button>
+    </form>
+</body>
