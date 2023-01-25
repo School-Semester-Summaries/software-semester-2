@@ -19,8 +19,5 @@ Here are topics I struggled with this semester
 Creating a web application using ASP.NET was one of the biggest struggles. If you can't seem to understand ASP.NET you won't make it. Mainly struggled to redirect pages from one to another, give parameters when going from one to another, stuff like that.
 
 ### Dependency Inversion
-This is just a magic trick. I can understand why the concept is usefull, but I don't understand why it's even possible and don't understand how to do it till this day. Ask your teacher for examples on this one.
-
-## What do others find hard this semester?
-I asked other people what they found hard about semester 2 and this is what they answered.
+Dependency Inversion is one of the SOLID principles (you will also learn these). This just feels like a magic trick. I can understand why the concept is usefull, but I don't understand why and how it's even possible and don't understand how to do it till this day. Ask your teacher for examples on this one.
 
