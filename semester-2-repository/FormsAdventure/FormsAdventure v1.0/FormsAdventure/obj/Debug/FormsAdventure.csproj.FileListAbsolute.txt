@@ -1,0 +1,13 @@
+C:\Users\kaan-\source\repos\FormsAdventure\FormsAdventure\bin\Debug\FormsAdventure.exe.config
+C:\Users\kaan-\source\repos\FormsAdventure\FormsAdventure\bin\Debug\FormsAdventure.exe
+C:\Users\kaan-\source\repos\FormsAdventure\FormsAdventure\bin\Debug\FormsAdventure.pdb
+C:\Users\kaan-\source\repos\FormsAdventure\FormsAdventure\bin\Debug\Logic.dll
+C:\Users\kaan-\source\repos\FormsAdventure\FormsAdventure\bin\Debug\Logic.pdb
+C:\Users\kaan-\source\repos\FormsAdventure\FormsAdventure\obj\Debug\FormsAdventure.csproj.AssemblyReference.cache
+C:\Users\kaan-\source\repos\FormsAdventure\FormsAdventure\obj\Debug\FormsAdventure.Properties.Resources.resources
+C:\Users\kaan-\source\repos\FormsAdventure\FormsAdventure\obj\Debug\FormsAdventure.csproj.GenerateResource.cache
+C:\Users\kaan-\source\repos\FormsAdventure\FormsAdventure\obj\Debug\FormsAdventure.csproj.CoreCompileInputs.cache
+C:\Users\kaan-\source\repos\FormsAdventure\FormsAdventure\obj\Debug\FormsAdventure.csproj.CopyComplete
+C:\Users\kaan-\source\repos\FormsAdventure\FormsAdventure\obj\Debug\FormsAdventure.exe
+C:\Users\kaan-\source\repos\FormsAdventure\FormsAdventure\obj\Debug\FormsAdventure.pdb
+C:\Users\kaan-\source\repos\FormsAdventure\FormsAdventure\obj\Debug\FormsAdventure.FRM_Puzzle1.resources

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormsAdventure", "FormsAdventure\FormsAdventure.csproj", "{92377393-0612-4CB1-915B-85C6031C866D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic", "Logic\Logic.csproj", "{FFCE6391-DEB4-4C63-9F3A-A674157307BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92377393-0612-4CB1-915B-85C6031C866D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92377393-0612-4CB1-915B-85C6031C866D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92377393-0612-4CB1-915B-85C6031C866D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92377393-0612-4CB1-915B-85C6031C866D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFCE6391-DEB4-4C63-9F3A-A674157307BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFCE6391-DEB4-4C63-9F3A-A674157307BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFCE6391-DEB4-4C63-9F3A-A674157307BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFCE6391-DEB4-4C63-9F3A-A674157307BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {154CBA71-251E-4F41-9E1D-D8D61E6E57EB}
+	EndGlobalSection
+EndGlobal
