@@ -1,0 +1,16 @@
+C:\Users\kaan-\source\repos\SquareRPG\SquareRPG\bin\Debug\SquareRPG.exe.config
+C:\Users\kaan-\source\repos\SquareRPG\SquareRPG\bin\Debug\SquareRPG.exe
+C:\Users\kaan-\source\repos\SquareRPG\SquareRPG\bin\Debug\SquareRPG.pdb
+C:\Users\kaan-\source\repos\SquareRPG\SquareRPG\bin\Debug\Logic.dll
+C:\Users\kaan-\source\repos\SquareRPG\SquareRPG\bin\Debug\Logic.pdb
+C:\Users\kaan-\source\repos\SquareRPG\SquareRPG\obj\Debug\SquareRPG.csproj.AssemblyReference.cache
+C:\Users\kaan-\source\repos\SquareRPG\SquareRPG\obj\Debug\SquareRPG.FRM_SquareRpg.resources
+C:\Users\kaan-\source\repos\SquareRPG\SquareRPG\obj\Debug\SquareRPG.Properties.Resources.resources
+C:\Users\kaan-\source\repos\SquareRPG\SquareRPG\obj\Debug\SquareRPG.csproj.GenerateResource.cache
+C:\Users\kaan-\source\repos\SquareRPG\SquareRPG\obj\Debug\SquareRPG.csproj.CoreCompileInputs.cache
+C:\Users\kaan-\source\repos\SquareRPG\SquareRPG\obj\Debug\SquareRPG.csproj.CopyComplete
+C:\Users\kaan-\source\repos\SquareRPG\SquareRPG\obj\Debug\SquareRPG.exe
+C:\Users\kaan-\source\repos\SquareRPG\SquareRPG\obj\Debug\SquareRPG.pdb
+C:\Users\kaan-\source\repos\SquareRPG\SquareRPG\obj\Debug\SquareRPG.FRM_Battle.resources
+C:\Users\kaan-\source\repos\SquareRPG\SquareRPG\obj\Debug\SquareRPG.FRM_Assets.resources
+C:\Users\kaan-\source\repos\SquareRPG\SquareRPG\obj\Debug\SquareRPG.FRM_GameOver.resources
