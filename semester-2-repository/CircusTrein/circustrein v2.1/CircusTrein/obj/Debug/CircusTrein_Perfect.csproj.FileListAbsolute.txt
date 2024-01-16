@@ -1,0 +1,10 @@
+C:\Users\kaan-\source\repos\CircusTrein - Perfect en netjes\CircusTrein\bin\Debug\CircusTrein.exe.config
+C:\Users\kaan-\source\repos\CircusTrein - Perfect en netjes\CircusTrein\bin\Debug\CircusTrein.exe
+C:\Users\kaan-\source\repos\CircusTrein - Perfect en netjes\CircusTrein\bin\Debug\CircusTrein.pdb
+C:\Users\kaan-\source\repos\CircusTrein - Perfect en netjes\CircusTrein\obj\Debug\CircusTrein_Perfect.csproj.AssemblyReference.cache
+C:\Users\kaan-\source\repos\CircusTrein - Perfect en netjes\CircusTrein\obj\Debug\CircusTrein.Properties.Resources.resources
+C:\Users\kaan-\source\repos\CircusTrein - Perfect en netjes\CircusTrein\obj\Debug\CircusTrein_Perfect.csproj.GenerateResource.cache
+C:\Users\kaan-\source\repos\CircusTrein - Perfect en netjes\CircusTrein\obj\Debug\CircusTrein_Perfect.csproj.CoreCompileInputs.cache
+C:\Users\kaan-\source\repos\CircusTrein - Perfect en netjes\CircusTrein\obj\Debug\CircusTrein.exe
+C:\Users\kaan-\source\repos\CircusTrein - Perfect en netjes\CircusTrein\obj\Debug\CircusTrein.pdb
+C:\Users\kaan-\source\repos\CircusTrein - Perfect en netjes\CircusTrein\obj\Debug\CircusTrein_Perfect.FRM_CircusTrein.resources

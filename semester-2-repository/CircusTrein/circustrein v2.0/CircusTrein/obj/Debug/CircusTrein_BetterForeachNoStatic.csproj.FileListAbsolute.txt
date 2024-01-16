@@ -1,0 +1,10 @@
+C:\Users\kaan-\source\repos\CircusTrein - Beter, Foreach, geen static\CircusTrein\bin\Debug\CircusTrein.exe.config
+C:\Users\kaan-\source\repos\CircusTrein - Beter, Foreach, geen static\CircusTrein\bin\Debug\CircusTrein.exe
+C:\Users\kaan-\source\repos\CircusTrein - Beter, Foreach, geen static\CircusTrein\bin\Debug\CircusTrein.pdb
+C:\Users\kaan-\source\repos\CircusTrein - Beter, Foreach, geen static\CircusTrein\obj\Debug\CircusTrein_BetterForeachNoStatic.csproj.AssemblyReference.cache
+C:\Users\kaan-\source\repos\CircusTrein - Beter, Foreach, geen static\CircusTrein\obj\Debug\CircusTrein_BetterForeachNoStatic.FRM_CircusTrein.resources
+C:\Users\kaan-\source\repos\CircusTrein - Beter, Foreach, geen static\CircusTrein\obj\Debug\CircusTrein.Properties.Resources.resources
+C:\Users\kaan-\source\repos\CircusTrein - Beter, Foreach, geen static\CircusTrein\obj\Debug\CircusTrein_BetterForeachNoStatic.csproj.GenerateResource.cache
+C:\Users\kaan-\source\repos\CircusTrein - Beter, Foreach, geen static\CircusTrein\obj\Debug\CircusTrein_BetterForeachNoStatic.csproj.CoreCompileInputs.cache
+C:\Users\kaan-\source\repos\CircusTrein - Beter, Foreach, geen static\CircusTrein\obj\Debug\CircusTrein.exe
+C:\Users\kaan-\source\repos\CircusTrein - Beter, Foreach, geen static\CircusTrein\obj\Debug\CircusTrein.pdb

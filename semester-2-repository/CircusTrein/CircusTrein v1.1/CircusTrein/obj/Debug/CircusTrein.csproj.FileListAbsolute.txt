@@ -1,0 +1,20 @@
+C:\Users\kaan-\source\repos\CircusTrein\CircusTrein\bin\Debug\CircusTrein.exe.config
+C:\Users\kaan-\source\repos\CircusTrein\CircusTrein\bin\Debug\CircusTrein.exe
+C:\Users\kaan-\source\repos\CircusTrein\CircusTrein\bin\Debug\CircusTrein.pdb
+C:\Users\kaan-\source\repos\CircusTrein\CircusTrein\obj\Debug\CircusTrein.csproj.AssemblyReference.cache
+C:\Users\kaan-\source\repos\CircusTrein\CircusTrein\obj\Debug\CircusTrein.FRM_CircusTrein.resources
+C:\Users\kaan-\source\repos\CircusTrein\CircusTrein\obj\Debug\CircusTrein.Properties.Resources.resources
+C:\Users\kaan-\source\repos\CircusTrein\CircusTrein\obj\Debug\CircusTrein.csproj.GenerateResource.cache
+C:\Users\kaan-\source\repos\CircusTrein\CircusTrein\obj\Debug\CircusTrein.csproj.CoreCompileInputs.cache
+C:\Users\kaan-\source\repos\CircusTrein\CircusTrein\obj\Debug\CircusTrein.exe
+C:\Users\kaan-\source\repos\CircusTrein\CircusTrein\obj\Debug\CircusTrein.pdb
+C:\Users\kaan-\source\repos\CircusTrein - Beter en foreach\CircusTrein\obj\Debug\CircusTrein.csproj.AssemblyReference.cache
+C:\Users\kaan-\source\repos\CircusTrein - Beter en foreach\CircusTrein\obj\Debug\CircusTrein.FRM_CircusTrein.resources
+C:\Users\kaan-\source\repos\CircusTrein - Beter en foreach\CircusTrein\obj\Debug\CircusTrein.Properties.Resources.resources
+C:\Users\kaan-\source\repos\CircusTrein - Beter en foreach\CircusTrein\obj\Debug\CircusTrein.csproj.GenerateResource.cache
+C:\Users\kaan-\source\repos\CircusTrein - Beter en foreach\CircusTrein\obj\Debug\CircusTrein.csproj.CoreCompileInputs.cache
+C:\Users\kaan-\source\repos\CircusTrein - Beter en foreach\CircusTrein\obj\Debug\CircusTrein.exe
+C:\Users\kaan-\source\repos\CircusTrein - Beter en foreach\CircusTrein\obj\Debug\CircusTrein.pdb
+C:\Users\kaan-\source\repos\CircusTrein - Beter en foreach\CircusTrein\bin\Debug\CircusTrein.exe.config
+C:\Users\kaan-\source\repos\CircusTrein - Beter en foreach\CircusTrein\bin\Debug\CircusTrein.exe
+C:\Users\kaan-\source\repos\CircusTrein - Beter en foreach\CircusTrein\bin\Debug\CircusTrein.pdb
