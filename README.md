@@ -10,7 +10,7 @@ I created a web application wherein teachers can create tests and assign them to
 In this semester you will be forced to make: use-cases, contextdiagram, conceptual model, user stories, class diagram, domain model, database architecture. Just a lot. You might find them back inside my [Architecture Document](https://github.com/School-Semester-Summaries/software-semester-2/blob/main/documents/Architectuurdocument%20-%20Kaan%20Gogcay.docx) and my [Analyse Document](https://github.com/School-Semester-Summaries/software-semester-2/blob/main/documents/Analysedocument%20-%20Kaan%20Gogcay.docx)
 
 ### Algorithm Exercises
-This was the fun part of the semester. I made 2 exercises inside this semester involving Algorithmics. Both of them are a variation on classic sorting algorithms. [CircusTrein](https://github.com/CrossyChainsaw/CircusTrein) and [ContainerVervoer](https://github.com/CrossyChainsaw/ContainerVervoer)
+This was the fun part of the semester. I made 2 exercises inside this semester involving Algorithmics. Both of them are a variation on classic sorting algorithms. [CircusTrein](https://github.com/School-Semester-Summaries/software-semester-2/tree/main/semester-2-repository/CircusTrein) and [ContainerVervoer](https://github.com/School-Semester-Summaries/software-semester-2/tree/main/semester-2-repository/ContainerVervoer)
 
 ## What did I find hard this semester?
 Here are topics I struggled with this semester
