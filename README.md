@@ -1,5 +1,5 @@
 # Semester 2 - Software
-*Note: This README might be less detailed than other repositories since I'm writing this a (few) years later. Also the documents are in Dutch.*
+*Note: This README might be less detailed than other repositories since I'm writing this a few years later. Also the documents are in Dutch.*
 
 ## What did I make this semester? 
 
